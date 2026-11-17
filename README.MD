@@ -1,6 +1,6 @@
 # Brute Force With Medusa
 
-Este projeto tem como objetivo demonstrar, de forma prática e controlada, como funcionam ataques de força bruta (*Brute Force*) utilizando Kali Linux e a ferramenta Medusa.
+Este projeto tem como objetivo demonstrar, de forma prática e controlada, como funcionam ataques de força bruta (*Brute Force*) utilizando Kali Linux com Medusa e Hydra.
 
 Foram utilizados ambientes vulneráveis para simular tentativas de autenticação em diferentes serviços, permitindo compreender os riscos relacionados ao uso de senhas fracas, identificar possíveis vulnerabilidades e estudar medidas de prevenção contra acessos não autorizados.
 
