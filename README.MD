@@ -6,7 +6,7 @@ Foram utilizados ambientes vulneráveis para simular tentativas de autenticaçã
 ## Ferramentas utilizadas
 | Ferramenta | Utilidade |
 |---|---|
-| **Kali Linux(https://www.kali.org/get-kali/#kali-platforms)** | Sistema operacional utilizado para executar as ferramentas de auditoria de segurança. |
+| **[Kali Linux](https://www.kali.org/get-kali/#kali-platforms)** | Sistema operacional utilizado para executar as ferramentas de auditoria de segurança. |
 | **Medusa** | Ferramenta utilizada para realizar o brute force, testar a resistência de autenticações por meio de tentativas controladas de senhas. |
 | **Metasploitable 2** | Máquina virtual intencionalmente vulnerável, utilizada para simular serviços que podem ser explorados. |
 | **DVWA** | Aplicação web vulnerável utilizada para estudar falhas de segurança em formulários de autenticação. |
