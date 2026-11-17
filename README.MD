@@ -13,3 +13,4 @@ Foram utilizados ambientes vulneráveis para simular tentativas de autenticaçã
 | **[VirtualBox](https://www.virtualbox.org/)** | Software utilizado para executar as máquinas virtuais. |
 
 ## 1. Configurando o ambiente
+https://imgur.com/a/bS3RcPi
